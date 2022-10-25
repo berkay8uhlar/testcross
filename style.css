@@ -6,6 +6,7 @@ a{
     color: black !important;
     font-weight: 800;
     font-size: 18px;
+    text-decoration: none;
 }
 #heroCarousel button{
     width: 15px;
