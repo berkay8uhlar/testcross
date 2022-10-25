@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+a,h1,h2,h3,h4,h5,h6,p,span{
+    font-family: 'Noto Serif', serif;
+}
+a{
+    color: black !important;
+    font-weight: 800;
+    font-size: 18px;
+}
+#heroCarousel button{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: grey;
+}
